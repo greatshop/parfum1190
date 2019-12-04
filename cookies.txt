@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mega-prodazhi.ru	TRUE	/	FALSE	1999999999	a841hash	dc730a7b802ea3cbb4e0b4b3f1f1c31d
+mega-prodazhi.ru	TRUE	/	FALSE	1999999999	a841fhash	duxi
+
